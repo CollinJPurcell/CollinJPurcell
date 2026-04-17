@@ -1,8 +1,6 @@
 # About Me 👋
 
-**CollinJPurcell/CollinJPurcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Basic Github tutorial README for profile :)
 
 - 🌱 I’m currently learning good data practices, bioinformatics algorithm applications, and more
 - 👯 I’m looking to collaborate on research projects in bioinformatics
